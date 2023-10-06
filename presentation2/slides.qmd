@@ -1,0 +1,11 @@
+---
+title: Default slides
+date: "2023-10-05"
+format:
+  revealjs:
+    theme: default
+---  
+
+## The default side
+
+Star Wars bla bla

@@ -1,0 +1,11 @@
+---
+title: "Presentations"
+format: 
+    html:
+        page-layout: full
+---
+
+| date       | title | preview |
+|------------|-------|---------|
+| 2023-10-05 | [The dark side](presentation1/slides.qmd) | <iframe src="presentation1/slides.html" width="210rem" height="150rem"></iframe> |
+| 2023-10-05 | [The default side](presentation2/slides.qmd) | <iframe src="presentation2/slides.html" width="210rem" height="150rem"></iframe> |

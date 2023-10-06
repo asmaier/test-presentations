@@ -1,0 +1,11 @@
+---
+title: Dark slides
+date: "2023-10-05"
+format:
+  revealjs:
+    theme: dark
+---  
+
+## The dark side
+
+Star Wars bla bla
